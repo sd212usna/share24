@@ -1,4 +1,4 @@
-# share23
+# share24
 Shared class repository for trying out git
 
 [Homework assignment page](https://usna.edu/Users/cs/SD212/hw/packs/sharedrepo.php)
