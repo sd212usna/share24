@@ -20,6 +20,8 @@ def liveable_shellac():
 
 def minded_floor():
     # YOUR CODE HERE!
+    print('01110111 01100001 01110011 01110100 01100101 00100000 01110100 01101001 01101101 01100101')
+    print('unbound-meaninglessness')
     pass
 
 def mythical_phrontistery():
