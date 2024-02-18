@@ -45,7 +45,7 @@ def summary_wakening():
     pass
 
 def taboo_cup():
-    # YOUR CODE HERE!
+    print('live laugh love')
     pass
 
 def unbolted_toea():
