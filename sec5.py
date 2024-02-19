@@ -29,7 +29,7 @@ def mythical_phrontistery():
     pass
 
 def obsessed_disorganization():
-    # YOUR CODE HERE!
+    print('I love Roblox. Roblox is my life. Im going into debt because I cant quit buying robux. My name is Dan Prather.')
     pass
 
 def ruly_yellowhammer():
