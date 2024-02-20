@@ -24,6 +24,10 @@ def minded_floor():
 
 def mythical_phrontistery():
     # YOUR CODE HERE!
+    print()
+    phron = 'What is a phrontistery? Great question! No idea!\nI looked it up, though, and heres what I found:\n\n\tA phrontistery can by any place ideal for thinking - including puplic\n\tlibraries and museums, as well as parks, forests, and any other places\n\twhere meditation comes easily.'
+    print(phron)
+    print()
     pass
 
 def obsessed_disorganization():
