@@ -7,11 +7,11 @@
 # of all the functions and run them one at a time.
 
 def advertent_vitrectomy():
-    # YOUR CODE HERE!
+    print('Hello World!')
     pass
 
 def contaminative_archbishopric():
-    # YOUR CODE HERE!
+    print("Mike Jagdon is a big Drake fan")
     pass
 
 def discriminatory_premiership():
@@ -19,7 +19,7 @@ def discriminatory_premiership():
     pass
 
 def funky_steriliser():
-    # YOUR CODE HERE!
+    print('THE GOVERNMENT IS LYING TO YOU ABOUT THE OBAMA PRISM. WAKE UP')
     pass
 
 def gaunt_pounce():
@@ -42,7 +42,11 @@ def methodical_coax():
     pass
 
 def paradigmatic_tedium():
-    # YOUR CODE HERE!
+    food = input("What is your favorite food? ")
+    food = food.lower()
+    while food != "eggs":
+        food = input("You're wrong! Try Again: ")
+    print("Correct!")
     pass
 
 def rightful_unfavorableness():
@@ -54,7 +58,7 @@ def unchanging_aliquot():
     pass
 
 def unretrievable_prosthodontia():
-    # YOUR CODE HERE!
+    print('Drake stand for Do Right And Kill Everything...')
     pass
 
 
