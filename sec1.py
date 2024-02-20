@@ -7,7 +7,7 @@
 # of all the functions and run them one at a time.
 
 def advertent_vitrectomy():
-    # YOUR CODE HERE!
+    print('Hello World!')
     pass
 
 def contaminative_archbishopric():
