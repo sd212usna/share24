@@ -20,14 +20,20 @@ def liveable_shellac():
 
 def minded_floor():
     # YOUR CODE HERE!
+    print('01110111 01100001 01110011 01110100 01100101 00100000 01110100 01101001 01101101 01100101')
+    print('unbound-meaninglessness')
     pass
 
 def mythical_phrontistery():
     # YOUR CODE HERE!
+    print()
+    phron = 'What is a phrontistery? Great question! No idea!\nI looked it up, though, and heres what I found:\n\n\tA phrontistery can by any place ideal for thinking - including puplic\n\tlibraries and museums, as well as parks, forests, and any other places\n\twhere meditation comes easily.'
+    print(phron)
+    print()
     pass
 
 def obsessed_disorganization():
-    # YOUR CODE HERE!
+    print('I love Roblox. Roblox is my life. Im going into debt because I cant quit buying robux. My name is Dan Prather.')
     pass
 
 def ruly_yellowhammer():
@@ -43,7 +49,7 @@ def summary_wakening():
     pass
 
 def taboo_cup():
-    # YOUR CODE HERE!
+    print('live laugh love')
     pass
 
 def unbolted_toea():

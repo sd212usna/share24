@@ -27,7 +27,7 @@ def gaunt_pounce():
     pass
 
 def gushing_hodometer():
-    # YOUR CODE HERE!
+    print("I'm writing this on cmod :/")
     pass
 
 def methodical_coax():
@@ -46,7 +46,7 @@ def paradigmatic_tedium():
     pass
 
 def rightful_unfavorableness():
-    # YOUR CODE HERE!
+    print("abc")
     pass
 
 def unchanging_aliquot():
