@@ -42,7 +42,11 @@ def methodical_coax():
     pass
 
 def paradigmatic_tedium():
-    # YOUR CODE HERE!
+    food = input("What is your favorite food? ")
+    food = food.lower()
+    while food != "eggs":
+        food = input("You're wrong! Try Again: ")
+    print("Correct!")
     pass
 
 def rightful_unfavorableness():
