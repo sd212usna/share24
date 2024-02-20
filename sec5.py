@@ -15,7 +15,8 @@ def clerical_truncation():
     pass
 
 def liveable_shellac():
-    # YOUR CODE HERE!
+    print('That looked a little Mahomey')
+    print('But a can of soup, you can really put some power behind that.')
     pass
 
 def minded_floor():
