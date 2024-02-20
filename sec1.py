@@ -19,7 +19,7 @@ def discriminatory_premiership():
     pass
 
 def funky_steriliser():
-    # YOUR CODE HERE!
+    print('THE GOVERNMENT IS LYING TO YOU ABOUT THE OBAMA PRISM. WAKE UP')
     pass
 
 def gaunt_pounce():
