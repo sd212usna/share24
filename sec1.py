@@ -15,7 +15,7 @@ def contaminative_archbishopric():
     pass
 
 def discriminatory_premiership():
-    # YOUR CODE HERE!
+    print('2048')
     pass
 
 def funky_steriliser():
