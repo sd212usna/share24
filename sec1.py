@@ -31,7 +31,14 @@ def gushing_hodometer():
     pass
 
 def methodical_coax():
-    # YOUR CODE HERE!
+    print('    __                 __    ')
+    print('   /                     \   ')
+    print('     ()               ()     ')
+    for x in range(2):
+        print('')
+    print('  \                       /  ')
+    print('   \_____________________/   ')
+    print('    \_|_|_|_|_|_|_|_|_|_/    ')
     pass
 
 def paradigmatic_tedium():
