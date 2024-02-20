@@ -39,7 +39,7 @@ def paradigmatic_tedium():
     pass
 
 def rightful_unfavorableness():
-    # YOUR CODE HERE!
+    print("abc")
     pass
 
 def unchanging_aliquot():
