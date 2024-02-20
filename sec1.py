@@ -27,7 +27,7 @@ def gaunt_pounce():
     pass
 
 def gushing_hodometer():
-    # YOUR CODE HERE!
+    print("I'm writing this on cmod :/")
     pass
 
 def methodical_coax():

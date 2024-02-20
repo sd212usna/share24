@@ -19,7 +19,7 @@ def bedded_domain():
     pass
 
 def lxxviii_thrombin():
-    # YOUR CODE HERE!
+    print('I did the homework!')
     pass
 
 def overnice_chorus():
@@ -44,10 +44,11 @@ def sustained_objection():
 
 def unconverted_threat():
     # YOUR CODE HERE!
+    print("doodlebob rulz")
     pass
 
 def ungoverned_dolichocephalic():
-    # YOUR CODE HERE!
+    print("Done")
     pass
 
 
