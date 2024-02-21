@@ -11,7 +11,7 @@ def catabolic_galangal():
     pass
 
 def clerical_truncation():
-    # YOUR CODE HERE!
+    print("reese has six toes (total)")
     pass
 
 def liveable_shellac():
