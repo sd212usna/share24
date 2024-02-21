@@ -46,7 +46,7 @@ def strategic_citron():
     pass
 
 def summary_wakening():
-    # YOUR CODE HERE!
+    print("What am I doing here?")
     pass
 
 def taboo_cup():
