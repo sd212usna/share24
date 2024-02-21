@@ -23,7 +23,7 @@ def lxxviii_thrombin():
     pass
 
 def overnice_chorus():
-    # YOUR CODE HERE!
+    print('Treasure from the Past')
     pass
 
 def poor_derivation():
