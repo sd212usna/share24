@@ -7,15 +7,15 @@
 # of all the functions and run them one at a time.
 
 def appressed_encrustation():
-    print("You better eat your vegetables")
-    pass
-
-def awnless_wineskin():
     # YOUR CODE HERE!
     pass
 
+def awnless_wineskin():
+    print("Tyrese Maxey is the best PG is the east.")
+    pass
+
 def bedded_domain():
-    print('skee yee!')
+    # YOUR CODE HERE!
     pass
 
 def lxxviii_thrombin():
@@ -23,7 +23,7 @@ def lxxviii_thrombin():
     pass
 
 def overnice_chorus():
-    print('Treasure from the Past')
+    # YOUR CODE HERE!
     pass
 
 def poor_derivation():
@@ -31,10 +31,7 @@ def poor_derivation():
     pass
 
 def shamanistic_hooter():
-    import time
-    print('What happens when you get knocked over by a dinosaur?')
-    time.sleep(3)
-    print('You get a Mega-sore-ass')
+    # YOUR CODE HERE!
     pass
 
 def slim_zero():
@@ -42,7 +39,7 @@ def slim_zero():
     pass
 
 def sustained_objection():
-    print('pookie')
+    # YOUR CODE HERE!
     pass
 
 def unconverted_threat():
