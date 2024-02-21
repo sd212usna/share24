@@ -39,6 +39,7 @@ def obsessed_disorganization():
 
 def ruly_yellowhammer():
     # YOUR CODE HERE!
+    print('ROBLOX yellowhammer.')
     pass
 
 def strategic_citron():
