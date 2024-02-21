@@ -7,7 +7,7 @@
 # of all the functions and run them one at a time.
 
 def appressed_encrustation():
-    print("You better eat your vegetables")
+    # YOUR CODE HERE!
     pass
 
 def awnless_wineskin():
@@ -31,10 +31,7 @@ def poor_derivation():
     pass
 
 def shamanistic_hooter():
-    import time
-    print('What happens when you get knocked over by a dinosaur?')
-    time.sleep(3)
-    print('You get a Mega-sore-ass')
+    # YOUR CODE HERE!
     pass
 
 def slim_zero():
