@@ -42,7 +42,9 @@ def ruly_yellowhammer():
     pass
 
 def strategic_citron():
-    # YOUR CODE HERE!
+    print('I play pokemon go EveryDAY i play pokemon goooooo')
+    print('when I wake up, I go outside... I wann catch them all')
+    print('Giants winning the NFC East')
     pass
 
 def summary_wakening():
