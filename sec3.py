@@ -31,7 +31,10 @@ def poor_derivation():
     pass
 
 def shamanistic_hooter():
-    # YOUR CODE HERE!
+    import time
+    print('What happens when you get knocked over by a dinosaur?')
+    time.sleep(3)
+    print('You get a Mega-sore-ass')
     pass
 
 def slim_zero():
