@@ -23,7 +23,7 @@ def funky_steriliser():
     pass
 
 def gaunt_pounce():
-    # YOUR CODE HERE!
+    print('Technically not late')
     pass
 
 def gushing_hodometer():

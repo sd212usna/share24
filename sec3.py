@@ -11,11 +11,11 @@ def appressed_encrustation():
     pass
 
 def awnless_wineskin():
-    # YOUR CODE HERE!
+    print("Tyrese Maxey is the best PG is the east.")
     pass
 
 def bedded_domain():
-    print('skee yee!')
+    # YOUR CODE HERE!
     pass
 
 def lxxviii_thrombin():
@@ -23,11 +23,11 @@ def lxxviii_thrombin():
     pass
 
 def overnice_chorus():
-    print('Treasure from the Past')
+    # YOUR CODE HERE!
     pass
 
 def poor_derivation():
-    # YOUR CODE HERE!
+    print("Hello World")
     pass
 
 def shamanistic_hooter():
@@ -39,7 +39,7 @@ def slim_zero():
     pass
 
 def sustained_objection():
-    print('pookie')
+    # YOUR CODE HERE!
     pass
 
 def unconverted_threat():
