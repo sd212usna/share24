@@ -11,7 +11,7 @@ def catabolic_galangal():
     pass
 
 def clerical_truncation():
-    # YOUR CODE HERE!
+    print("reese has six toes (total)")
     pass
 
 def liveable_shellac():
@@ -46,7 +46,7 @@ def strategic_citron():
     pass
 
 def summary_wakening():
-    # YOUR CODE HERE!
+    print("What am I doing here?")
     pass
 
 def taboo_cup():
