@@ -39,7 +39,7 @@ def slim_zero():
     pass
 
 def sustained_objection():
-    # YOUR CODE HERE!
+    print('pookie')
     pass
 
 def unconverted_threat():
