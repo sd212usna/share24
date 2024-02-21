@@ -15,7 +15,7 @@ def awnless_wineskin():
     pass
 
 def bedded_domain():
-    # YOUR CODE HERE!
+    print('skee yee!')
     pass
 
 def lxxviii_thrombin():
