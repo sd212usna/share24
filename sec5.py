@@ -38,7 +38,7 @@ def obsessed_disorganization():
     pass
 
 def ruly_yellowhammer():
-    # YOUR CODE HERE!
+    print('Alas, a fair maiden with thine apple-bottom knickers and boots with thine fur hath descended downwards.')
     pass
 
 def strategic_citron():
